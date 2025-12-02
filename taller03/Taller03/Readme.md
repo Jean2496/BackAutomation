@@ -18,5 +18,5 @@ Gestión de dependencias: Gradle
 
 Instalación del proyecto
 
-Clonar el repositorio: git clone https://github.com/Jean2496/taller03.git
+Clonar el repositorio: git clone https://github.com/Jean2496/BackAutomation.git
 Ejecutar pruebas: ejecutar los escenarios desde el archivo .feature
